@@ -38,7 +38,7 @@ Used Scikit-learn’s `KNeighborsClassifier` and evaluated model performance wit
 ## 📁 Project Folder Structure
 
 ```bash
-Coursera-Breast-Cancer-Classifier/
+Breast-Cancer-Classifier/
 ├── Knn_Breast_Cancer_Classifier.ipynb     ✅ Your completed notebook
 ├── knn_accuracy_plot.png                  ✅ Accuracy vs. k plot
 ├── README.md                              ✅ Project summary file
