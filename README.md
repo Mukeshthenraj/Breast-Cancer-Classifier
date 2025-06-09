@@ -39,7 +39,7 @@ Used Scikit-learn’s `KNeighborsClassifier` and evaluated model performance wit
 
 ```bash
 Breast-Cancer-Classifier/
-├── Knn_Breast_Cancer_Classifier.ipynb     ✅ Your completed notebook
+├── Knn_Breast_Cancer_Classifier.ipynb     ✅ Python completed notebook
 ├── breast_cancer_data.csv                 ✅ Dataset in CSV format
 ├── knn_accuracy_plot.png                  ✅ Accuracy vs. k plot
 ├── README.md                              ✅ Project summary file
