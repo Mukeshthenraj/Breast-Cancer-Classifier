@@ -51,6 +51,7 @@ Breast-Cancer-Classifier/
 ## 📁 Files
 
 - `Knn_Breast_Cancer_Classifier.ipynb`: Full notebook with clean, commented code
+- `breast_cancer_data.csv`: Dataset in CSV format
 - `knn_accuracy_plot.png`: Accuracy vs. k plot
 - `README.md`: This file
 
