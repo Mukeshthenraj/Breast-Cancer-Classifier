@@ -82,5 +82,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📬 Connect
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/mukeshthenraj)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/mukesh-thenraj)
 - 📧 mukeshthenraj@gmail.com
+
+---
+
+👨‍💻 Author
+Mukesh Thenraj
